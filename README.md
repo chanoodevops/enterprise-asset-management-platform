@@ -31,3 +31,17 @@ The goal is to showcase Solution Architecture, Platform Engineering, DevOps, and
 ## Project Status
 
 🚧 In Progress
+
+## Documentation
+
+| Document | Status |
+|----------|--------|
+| Project Vision | 🚧 |
+| Requirements | 🚧 |
+| Architecture | 🚧 |
+| Security | 🚧 |
+| Deployment | 🚧 |
+| Observability | 🚧 |
+| Disaster Recovery | 🚧 |
+| Cost Optimization | 🚧 |
+| Roadmap | 🚧 |
