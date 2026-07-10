@@ -1,38 +1,47 @@
 # Enterprise Cloud Platform
 
-## Overview
+> A production-oriented reference architecture demonstrating how to design, build, secure, deploy, and operate a modern enterprise cloud platform on AWS.
 
-This repository demonstrates a production-oriented reference architecture for a secure, scalable enterprise cloud platform running on AWS.
+---
 
-The goal is to showcase Solution Architecture, Platform Engineering, DevOps, and Infrastructure as Code practices.
+## 🎯 Objectives
 
-## Planned Technology Stack
+This project demonstrates enterprise software engineering practices including:
 
-- AWS
-- .NET 8 Web API
-- React
-- Terraform
-- Docker
-- GitHub Actions
-- PostgreSQL
-- OpenTelemetry
-
-## Planned Capabilities
-
-- Authentication
-- Role-Based Access Control (RBAC)
-- REST APIs
-- Audit Logging
-- CI/CD
+- Solution Architecture
+- AWS Cloud Architecture
+- Platform Engineering
+- DevSecOps
 - Infrastructure as Code
-- Monitoring
-- Secure Deployment
+- Observability
+- Security by Design
 
-## Project Status
+---
 
-🚧 In Progress
+## 🏗 Architecture Overview
 
-## Documentation
+(To be added)
+
+---
+
+## 🧱 Technology Stack
+
+| Layer | Technology |
+|--------|------------|
+| Frontend | React + TypeScript |
+| Backend | .NET 8 Web API |
+| Cloud | AWS |
+| Infrastructure | Terraform |
+| Containers | Docker |
+| Compute | ECS Fargate |
+| Database | PostgreSQL |
+| CI/CD | GitHub Actions |
+| Monitoring | CloudWatch |
+| Logging | Serilog |
+
+---
+
+## 📚 Documentation
 
 | Document | Status |
 |----------|--------|
@@ -42,6 +51,23 @@ The goal is to showcase Solution Architecture, Platform Engineering, DevOps, and
 | Security | 🚧 |
 | Deployment | 🚧 |
 | Observability | 🚧 |
-| Disaster Recovery | 🚧 |
-| Cost Optimization | 🚧 |
 | Roadmap | 🚧 |
+
+---
+
+## 🗺 Roadmap
+
+- [ ] Architecture
+- [ ] Backend
+- [ ] Frontend
+- [ ] Infrastructure
+- [ ] CI/CD
+- [ ] Security
+- [ ] Monitoring
+- [ ] Deployment
+
+---
+
+## 📄 License
+
+MIT
